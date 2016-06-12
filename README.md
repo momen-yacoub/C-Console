@@ -1,2 +1,2 @@
 # C-Console
-small c++ console projects
+my first c++ console projects
